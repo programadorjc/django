@@ -5,9 +5,9 @@
 # django.utils.translation -- that module depends on the settings.
 gettext_noop = lambda s: s
 
-####################
+#####################
 # CORE             #
-####################
+#####################
 
 DEBUG = False
 TEMPLATE_DEBUG = False
